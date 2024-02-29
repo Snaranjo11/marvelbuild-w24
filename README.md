@@ -1,2 +1,33 @@
-# barvelbuild-w24
+# Marvelbuild-w24
 This repo is for the in class marvel build. 
+
+# Project Name
+
+TODO: Write a project description
+
+## Installation
+
+No installaion is requiered
+
+## Usage
+Open the index
+
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+
+## History
+
+TODO: Write history
+
+## Credits
+
+Santiago Naranjo
+
+## License
+
+MIT - seelicense file for more information
