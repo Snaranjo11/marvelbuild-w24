@@ -1,2 +1,2 @@
 # barvelbuild-w24
-This repo is for the class marvel build. 
+This repo is for the in class marvel build. 
